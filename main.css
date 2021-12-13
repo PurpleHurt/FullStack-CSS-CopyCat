@@ -1,0 +1,16 @@
+.COVID {
+    text-align: center;
+    background-color: rgb(243, 156, 18);
+    padding: 20px;
+}
+
+nav {
+    background-color: rgb(0, 37, 105);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#header {
+    position: relative;
+    z-index: 1030;
+}
